@@ -2,4 +2,4 @@
 # Devop_course_first_reo
 this is devops repository
 
-this is my first chane
+this is my first change
